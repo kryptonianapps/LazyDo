@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647152054535",
+    "firebase_url": "https://lazydo-46b99.firebaseio.com",
+    "project_id": "lazydo-46b99",
+    "storage_bucket": "lazydo-46b99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647152054535:android:628a8bf39f8f356de195a2",
+        "android_client_info": {
+          "package_name": "com.kryptonapp.lazydo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647152054535-30pq2r88ratuhpvca45fpidj7qqa2ifu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kryptonapp.lazydo",
+            "certificate_hash": "7e71b8c057627554bd1627e8cb746d99df462745"
+          }
+        },
+        {
+          "client_id": "647152054535-umsfb7mmvol822u8147oatav77u42h6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgqZAB88bHmoZ_mufgfo1_EwkQpwf0fVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647152054535-umsfb7mmvol822u8147oatav77u42h6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
