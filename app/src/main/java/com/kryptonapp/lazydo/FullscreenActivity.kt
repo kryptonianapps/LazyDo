@@ -30,7 +30,7 @@ class FullscreenActivity : AppCompatActivity() {
     }
 
     private fun hide() {
-        val intent = Intent(this, LoginActivity::class.java)
+        val intent = Intent(this, MainActivity::class.java)
         val handler = Handler()
         handler.post(mHidePart2Runnable)
         handler.postDelayed({
